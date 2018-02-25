@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  CorMobiApp
+
+  Created by liguangqiao on 2017/8/1.
+  Copyright © 2017年 coracle. All rights reserved.
+*/
+"netAlertTitle" ="network error";
+"netAlertMessage" ="Your Application Can Only Access The Offline Resources!";
+"netAlertCancelBtn" ="Exit";
+"netAlertOtherBtn" ="Continue";
+"exitAlertTitle" ="Exit prompt";
+"exitAlertMessage" ="exit application?";
+"exitAlertCancelBtn" ="Cancel";
+"exitAlertExitBtn" ="Exit";
